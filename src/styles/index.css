@@ -10,3 +10,26 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+*{
+    background-color: black;
+}
+
+.semaforo{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: black;
+    border-color: white;
+}
+
+.luzRoja{
+    background-color: red;
+}
+.luzAmarilla{
+    background-color: yellow;
+}
+    
+.luzVerde{
+    background-color: green;
+}
+
